@@ -9,6 +9,7 @@
 
 	<a href="page/main">page/main</a>
 	<a href="page/mainlist">mainlist</a>
+	<a href="teacher">teacher</a>
 </body>
 </html>
 
